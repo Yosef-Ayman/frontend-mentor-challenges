@@ -37,12 +37,12 @@ To view any project locally:
 
 1. Clone this repository
 ```bash
-git clone https://github.com/Yosef-Ayman/Frontend-Mentor-Challenges.git
+git clone https://github.com/Yosef-Ayman/frontend-mentor-challenges.git
 ```
 
 2. Navigate to the specific project directory
 ```bash
-cd Frontend-Mentor-Challenges/project-name
+cd frontend-mentor-challenges/project-name
 ```
 
 3. Open the `index.html` file in your browser
